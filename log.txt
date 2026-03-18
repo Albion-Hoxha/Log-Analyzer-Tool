@@ -1,0 +1,7 @@
+INFO User login success
+ERROR Wrong password
+INFO Connection opened
+ERROR File not found
+WARNING Disk almost full
+INFO User logout
+ERROR Access denied
